@@ -1,0 +1,11 @@
+<resources>
+    <array name="jobs_type">
+        <item>Select Your Job Type</item>
+        <item>Tech</item>
+        <item>Design</item>
+        <item>ML</item>
+        <item>AI</item>
+
+    </array>
+    <string name="app_name">Fanni</string>
+</resources>
