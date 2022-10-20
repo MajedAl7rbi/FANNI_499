@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432933200297",
+    "project_id": "fanni-407ea",
+    "storage_bucket": "fanni-407ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432933200297:android:1f67d2ff2e6084abfae4b8",
+        "android_client_info": {
+          "package_name": "com.app.fanni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432933200297-s8iam4lkbe4nruv1dcohrr4vjk2kpbio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAmYA-H-Bkh3srLFbGI_z5a1ZRf1726wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432933200297-s8iam4lkbe4nruv1dcohrr4vjk2kpbio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
