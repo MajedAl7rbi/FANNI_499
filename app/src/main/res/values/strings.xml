@@ -1,0 +1,25 @@
+<resources>
+    <array name="jobs_type">
+        <item>Select Your Job Type</item>
+        <item>Plumber</item>
+        <item>Electrician</item>
+        <item>Painter</item>
+        <item>Paved</item>
+        <item>Cooler</item>
+        <item>Carpenter</item>
+
+    </array>
+
+    <array name="worker_type">
+        <item>Select worker Type</item>
+        <item>Plumber</item>
+        <item>Electrician</item>
+        <item>Painter</item>
+        <item>Paved</item>
+        <item>Cooler</item>
+        <item>Carpenter</item>
+    </array>
+    <string name="app_name">Fanni</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
